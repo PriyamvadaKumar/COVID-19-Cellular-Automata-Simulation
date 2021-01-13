@@ -1,0 +1,5 @@
+No of Susceptible persons: 510
+No of Vaccinated persons: 2401
+No of Infected persons: 0
+No of Recovered persons: 6566
+No of Dead persons: 523
