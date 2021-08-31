@@ -23,7 +23,7 @@ Random neighborhood + basic transition and Random neighborhood + random sampling
 
 Along with this, we also see the effects of incorporating a recovery period, vaccination rate, quarantine probability , and case fatality rate parameters.
 
-Also modeling the spread of disease in terms of susceptible, infected and recovered individuals using a 1D CA board based on  https://link.springer.com/article/10.1007/s11430-009-0044-9. This is using Time periods and rate of infection , recovery and cure rate.
+Modeled the spread of disease in terms of susceptible, infected and recovered individuals using a 1D CA board based on  https://link.springer.com/article/10.1007/s11430-009-0044-9 - using time periods and rate of infection , recovery and cure.
 
 
 # TECHNOLOGIES
