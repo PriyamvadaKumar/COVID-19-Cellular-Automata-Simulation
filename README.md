@@ -30,6 +30,7 @@ Modeled the spread of disease in terms of susceptible, infected and recovered in
 - JUPYTER NOTEBOOK
 - PYTHON 3.7.6
 - Atom Text Editor
+- Go Language 
 
 
 # SETUP
