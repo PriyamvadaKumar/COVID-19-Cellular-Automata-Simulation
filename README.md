@@ -87,7 +87,16 @@ Here, 00-Moore neighborhood + basic transition
 May change number of days of simulation , initial_data.txt and parameter_data.txt file , rv,vr,qp, cfr to get different results and graphs (Currently assigned arbitrarily )
 
 
-To get graphs (Jupyter notebook within the folder will output the graphs with text files created here as input)
+
+Graphs for number of infected/recovered/susceptible/vaccinated/dead individuals vs number of days outputted from Jupyter Notebook 
+
+Example output : 
+
+<img width="558" alt="Screen Shot 2021-09-04 at 1 44 23 PM" src="https://user-images.githubusercontent.com/77410526/132103703-094ac2b1-a52a-4189-ae08-8baf0c2584ce.png">
+x axis : Number of days 
+
+Here, the following parameters have been set - days of running simulation = 100 , recovery period = 15,  vaccination rate(% per day)=1, quarantine probability=0.5, ,case fatality rate = 0.5 
+
 
 First 4 commands to be entered in terminal the following for when initial_data.txt file used as input(manually creating board with susceptible and infected)
 
