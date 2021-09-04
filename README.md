@@ -74,19 +74,19 @@ where, parameters are :
 - cfr = case fatality rate (% per day)=0.5
 - twodigitcode refers to neighborhood choice+transition type
 
-## Here, 00-Moore neighborhood + basic transition
+# Here, 00-Moore neighborhood + basic transition
 
-## 01- Moore neighborhood + random sampling transition
+# 01- Moore neighborhood + random sampling transition
 
-## 10- Random neighbourhood+ basic transition
+# 10- Random neighbourhood+ basic transition
 
-## 11- random neighborhood +random sampling transition
+# 11- random neighborhood +random sampling transition
 
 
 
 # May change number of days of simulation , initial_data.txt and parameter_data.txt file , rv,vr,qp, cfr to get different results and graphs.
 
-## Currently assigned arbitrarily
+# Currently assigned arbitrarily
 
 
 To get graphs (Jupyter notebook within the folder will output the graphs with text files created here as input)
