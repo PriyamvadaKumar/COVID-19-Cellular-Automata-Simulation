@@ -93,7 +93,8 @@ Graphs for number of infected/recovered/susceptible/vaccinated/dead individuals 
 Example output : 
 
 <img width="558" alt="Screen Shot 2021-09-04 at 1 44 23 PM" src="https://user-images.githubusercontent.com/77410526/132103703-094ac2b1-a52a-4189-ae08-8baf0c2584ce.png">
-x axis : Number of days 
+
+        x axis : Number of days 
 
 Here, the following parameters have been set - days of running simulation = 100 , recovery period = 15,  vaccination rate(% per day)=1, quarantine probability=0.5, ,case fatality rate = 0.5 
 
